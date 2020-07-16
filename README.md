@@ -1,1 +1,1 @@
-# mddn201-portfolio
+# Project for personal portfolio
